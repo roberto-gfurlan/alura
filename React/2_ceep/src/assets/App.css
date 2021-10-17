@@ -1,0 +1,19 @@
+.conteudo {
+  display: flex;
+}
+
+:root {
+  --primaria: #58a4b0;
+  --secundaria: #373f51;
+  --secundaria-ativa: #cccccc;
+  --fundo: #ffffff;
+  --fundo-detalhes: #ececec;
+}
+
+header.card-nota_cabecalho svg {
+  cursor: pointer;
+}
+
+.conteudo-principal{
+  flex-grow: 3;
+}
